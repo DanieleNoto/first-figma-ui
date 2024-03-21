@@ -1,0 +1,59 @@
+.circle{
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    display: inline-block;
+    margin: 20px;
+    box-shadow: 0px 0px 10px grey;
+    cursor: pointer;
+}
+
+.circle:hover{
+    transform: scale(1.05,1.05);
+}
+
+
+.serie-a {
+    background-image: url('../../public/asset/serieA.jpg'); /* Euro 2024 color */
+    background-size: contain;
+  }
+  
+  .premier-league {
+    background-image: url('../../public/asset/premier.jpg'); /* Euro 2024 color */
+    background-size: contain;
+  }
+  
+  .ligue-1 {
+    background-image: url('../../public/asset/ligue1.jpg'); /* Euro 2024 color */
+    background-size: contain;
+  }
+  
+  .liga {
+    background-image: url('../../public/asset/liga.jpg'); /* Euro 2024 color */
+    background-size: contain;
+  }
+  
+  .bundesliga {
+    background-image: url('../../public/asset/bundesliga.jpg'); /* Euro 2024 color */
+    background-size: contain;
+  }
+  
+  .champions-league {
+    background-image: url('../../public/asset/champions.jpg'); /* Euro 2024 color */
+    background-size: contain;
+  }
+  
+  .europa-league {
+    background-image: url('../../public/asset/europaleague.jpg'); /* Euro 2024 color */
+    background-size: contain;
+  }
+  
+  .conference-league {
+    background-image: url('../../public/asset/conference.jpg'); /* Euro 2024 color */
+    background-size: contain;
+  }
+  
+  .national {
+    background-image: url('../../public/asset/national.jpg'); /* Euro 2024 color */
+    background-size: contain;
+  }
