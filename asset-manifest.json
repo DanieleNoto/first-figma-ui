@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/first-figma-ui/static/css/main.23cbb9a6.css",
-    "main.js": "/first-figma-ui/static/js/main.a5d49db1.js",
+    "main.js": "/first-figma-ui/static/js/main.b0312847.js",
     "static/js/453.a5ec30a8.chunk.js": "/first-figma-ui/static/js/453.a5ec30a8.chunk.js",
     "static/media/conference.jpg": "/first-figma-ui/static/media/conference.2b2d1e4f7097e5df8abb.jpg",
     "static/media/national.jpg": "/first-figma-ui/static/media/national.2a2bbb1c3b3601e8f680.jpg",
@@ -14,11 +14,11 @@
     "static/media/ligue1.jpg": "/first-figma-ui/static/media/ligue1.b0646b569247428341ff.jpg",
     "index.html": "/first-figma-ui/index.html",
     "main.23cbb9a6.css.map": "/first-figma-ui/static/css/main.23cbb9a6.css.map",
-    "main.a5d49db1.js.map": "/first-figma-ui/static/js/main.a5d49db1.js.map",
+    "main.b0312847.js.map": "/first-figma-ui/static/js/main.b0312847.js.map",
     "453.a5ec30a8.chunk.js.map": "/first-figma-ui/static/js/453.a5ec30a8.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.23cbb9a6.css",
-    "static/js/main.a5d49db1.js"
+    "static/js/main.b0312847.js"
   ]
 }
