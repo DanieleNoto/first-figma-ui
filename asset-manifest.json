@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/myapp/static/css/main.fd0dc93a.css",
-    "main.js": "/myapp/static/js/main.f51e2d0e.js",
-    "static/js/453.a5ec30a8.chunk.js": "/myapp/static/js/453.a5ec30a8.chunk.js",
-    "static/media/conference.jpg": "/myapp/static/media/conference.2b2d1e4f7097e5df8abb.jpg",
-    "static/media/national.jpg": "/myapp/static/media/national.2a2bbb1c3b3601e8f680.jpg",
-    "static/media/champions.jpg": "/myapp/static/media/champions.3977340d42870a0a0f9b.jpg",
-    "static/media/serieA.jpg": "/myapp/static/media/serieA.17d188bc085cf93c284c.jpg",
-    "static/media/premier.jpg": "/myapp/static/media/premier.5fdb70679762eaa45b94.jpg",
-    "static/media/europaleague.jpg": "/myapp/static/media/europaleague.98eabfa9239591225cb9.jpg",
-    "static/media/liga.jpg": "/myapp/static/media/liga.0217cb005a3161ca1d72.jpg",
-    "static/media/bundesliga.jpg": "/myapp/static/media/bundesliga.a86f6af3d4c1ba2fd716.jpg",
-    "static/media/ligue1.jpg": "/myapp/static/media/ligue1.b0646b569247428341ff.jpg",
-    "index.html": "/myapp/index.html",
-    "main.fd0dc93a.css.map": "/myapp/static/css/main.fd0dc93a.css.map",
-    "main.f51e2d0e.js.map": "/myapp/static/js/main.f51e2d0e.js.map",
-    "453.a5ec30a8.chunk.js.map": "/myapp/static/js/453.a5ec30a8.chunk.js.map"
+    "main.css": "/first-figma-ui/static/css/main.23cbb9a6.css",
+    "main.js": "/first-figma-ui/static/js/main.f5e4cf1e.js",
+    "static/js/453.a5ec30a8.chunk.js": "/first-figma-ui/static/js/453.a5ec30a8.chunk.js",
+    "static/media/conference.jpg": "/first-figma-ui/static/media/conference.2b2d1e4f7097e5df8abb.jpg",
+    "static/media/national.jpg": "/first-figma-ui/static/media/national.2a2bbb1c3b3601e8f680.jpg",
+    "static/media/champions.jpg": "/first-figma-ui/static/media/champions.3977340d42870a0a0f9b.jpg",
+    "static/media/serieA.jpg": "/first-figma-ui/static/media/serieA.17d188bc085cf93c284c.jpg",
+    "static/media/premier.jpg": "/first-figma-ui/static/media/premier.5fdb70679762eaa45b94.jpg",
+    "static/media/europaleague.jpg": "/first-figma-ui/static/media/europaleague.98eabfa9239591225cb9.jpg",
+    "static/media/liga.jpg": "/first-figma-ui/static/media/liga.0217cb005a3161ca1d72.jpg",
+    "static/media/bundesliga.jpg": "/first-figma-ui/static/media/bundesliga.a86f6af3d4c1ba2fd716.jpg",
+    "static/media/ligue1.jpg": "/first-figma-ui/static/media/ligue1.b0646b569247428341ff.jpg",
+    "index.html": "/first-figma-ui/index.html",
+    "main.23cbb9a6.css.map": "/first-figma-ui/static/css/main.23cbb9a6.css.map",
+    "main.f5e4cf1e.js.map": "/first-figma-ui/static/js/main.f5e4cf1e.js.map",
+    "453.a5ec30a8.chunk.js.map": "/first-figma-ui/static/js/453.a5ec30a8.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.fd0dc93a.css",
-    "static/js/main.f51e2d0e.js"
+    "static/css/main.23cbb9a6.css",
+    "static/js/main.f5e4cf1e.js"
   ]
 }
