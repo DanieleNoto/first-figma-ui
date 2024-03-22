@@ -13,7 +13,7 @@ function App() {
         <Navbar />
 
         <Routes>
-          <Route path="/" element={<HomePage />} />
+          <Route path="/first-figma-ui" element={<HomePage />} />
           <Route path="/seriea" element={<SerieA />} />
           <Route path="/national" element={<Euro2024 />} />
         </Routes>

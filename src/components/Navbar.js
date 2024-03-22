@@ -10,7 +10,7 @@ function MyNavbar() {
         <Navbar.Toggle aria-controls="basic-navbar-nav" />
         <Navbar.Collapse id="basic-navbar-nav">
           <Nav className="me-auto">
-            <Nav.Link href="/">Home</Nav.Link>
+            <Nav.Link href="/first-figma-ui/">Home</Nav.Link>
             <Nav.Link href="#link">Quote del giorno</Nav.Link>
           </Nav>
         </Navbar.Collapse>
